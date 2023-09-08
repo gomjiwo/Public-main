@@ -118,7 +118,7 @@ nav{
 .sub_all li a{
   color: #333;
   font-size: 16px;
-  font-weight: 400px;
+  font-weight: 400;
 }
 .sub_all li:hover{background-color:#D0F2F2 ;}
 .sub_bgbox{
@@ -759,7 +759,7 @@ footer{
 .footer_list ul li{
   margin-right:30px;
   color: navy;
-  font-weight: 700px;
+  font-weight: 700;
 }
 address{
   width: 1200px;
